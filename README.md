@@ -9,5 +9,5 @@ Led the development of Microsoft Excel replica with almost simliar appearance an
 2. Change Font name, size, color, background.
 3. Can calculate values using formula and give alerts when it detect cycle change.
 
-Languages Used: Javascript, HTML, CSS
-Framework Used: Electron.js, JQuery
+**Languages Used:** Javascript, HTML, CSS<br>
+**Framework Used:** Electron.js, JQuery
