@@ -2,7 +2,7 @@
 Led the development of Microsoft Excel replica with almost simliar appearance and functionalities. 
 
 ## Outlook
-![Excel Clone](ExcelClone.jpg)
+![Excel Clone](img/ExcelClone.jpg)
 
 ## Basic functionalites inlcudes:
 1. Can Open, Save, New File. 
