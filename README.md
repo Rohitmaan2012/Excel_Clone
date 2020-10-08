@@ -8,7 +8,7 @@ Led the development of Microsoft Excel replica with almost simliar appearance an
 
 ## Outlook
 <!-- ![Excel Clone](img/ExcelClone.jpg "Excel") -->
-<img src="img/ExcelClone.jpg" width=1000 title="Excel">
+<img src="img/ExcelClone.jpg" width=900 title="Excel">
 
 **Languages Used:** Javascript, HTML, CSS<br>
 **Framework Used:** Electron.js, JQuery
