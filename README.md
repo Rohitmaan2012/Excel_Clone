@@ -1,5 +1,5 @@
 # Excel_Clone
-Led the development of Microsoft Excel replica with almost simliar appearance and functionalities. 
+Led the development of Microsoft Excel replica with almost similar appearance and functionalities. 
 
 ## Basic functionalites inlcudes:
 1. Can Open, Save, New File. 
